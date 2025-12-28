@@ -20,4 +20,4 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # Data (optional — depends on dataset)
-data/raw/
+data/
