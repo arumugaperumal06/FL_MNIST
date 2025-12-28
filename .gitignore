@@ -1,0 +1,23 @@
+# Virtual environment
+fl_env/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Jupyter checkpoints (if any)
+.ipynb_checkpoints/
+
+# Data (optional — depends on dataset)
+data/raw/
